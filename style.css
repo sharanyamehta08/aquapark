@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family:farenheight;
+  src: url(./farenheight-font//font.ttf);
+}
+canvas {
+  display: block;
+  border:2px solid;
+}
+.titleText{
+  font-size: 150px;
+  font-family: farenheight;
+  text-align: center;
+  color:rgb(99, 99, 99);
+}
